@@ -2301,7 +2301,7 @@ msgstr ""
 #: includes/plugins/multiple_sidebars.php:452
 #: includes/plugins/multiple_sidebars.php:528
 msgid "Default"
-msgstr ""
+msgstr "За замовчуванням"
 
 # @ Avada
 #: includes/class-avada-admin.php:1569
@@ -2355,7 +2355,7 @@ msgstr ""
 
 #: includes/class-avada-admin.php:1609 includes/options/header.php:542
 msgid "Header Background Color"
-msgstr ""
+msgstr "Колір Фону Заголовка"
 
 #. translators: The "Fusion Theme Options" link.
 #. translators: Additional description (defaults).
@@ -15808,15 +15808,15 @@ msgstr ""
 
 #: templates/wc-after-single-product-summary.php:30
 msgid "Share On Facebook"
-msgstr ""
+msgstr "Поділитися на Facebook"
 
 #: templates/wc-after-single-product-summary.php:38
 msgid "Tweet This Product"
-msgstr ""
+msgstr "Tweet цей продукт"
 
 #: templates/wc-after-single-product-summary.php:47
 msgid "Pin This Product"
-msgstr ""
+msgstr "Pin цей продукт"
 
 #: templates/wc-after-single-product-summary.php:55
 msgid "Mail This Product"
