@@ -14975,11 +14975,11 @@ msgstr ""
 
 #: includes/plugins/multiple_sidebars.php:290
 msgid "Widget Sections"
-msgstr ""
+msgstr "Розділи віджетів"
 
 #: includes/plugins/multiple_sidebars.php:295
 msgid "Widget Section Name"
-msgstr ""
+msgstr "Назва розділу віджетів"
 
 #: includes/plugins/multiple_sidebars.php:296
 msgid "CSS Class"
@@ -14987,15 +14987,15 @@ msgstr ""
 
 #: includes/plugins/multiple_sidebars.php:307
 msgid "Remove this Widget Section"
-msgstr ""
+msgstr "Видалити цей розділ віджетів"
 
 #: includes/plugins/multiple_sidebars.php:307
 msgid "remove"
-msgstr ""
+msgstr "видалити"
 
 #: includes/plugins/multiple_sidebars.php:317
 msgid "Add New Widget Section"
-msgstr ""
+msgstr "Додати новий розділ віджетів"
 
 # @ Avada
 #: includes/plugins/multiple_sidebars.php:413
@@ -15026,17 +15026,17 @@ msgstr ""
 #: includes/plugins/multiple_sidebars.php:587
 #: includes/plugins/multiple_sidebars.php:645
 msgid "Blog Sidebar"
-msgstr ""
+msgstr "Бічна панель блогу"
 
 #: includes/plugins/multiple_sidebars.php:454
 #: includes/plugins/multiple_sidebars.php:530
 msgid "No Sidebar"
-msgstr ""
+msgstr "Немає бічної панелі"
 
 # @ Avada
 #: includes/plugins/multiple_sidebars.php:489
 msgid "Select Sidebar 2:"
-msgstr ""
+msgstr "Виберіть бічну панель 2:"
 
 #. translators: Additional description.
 #: includes/plugins/multiple_sidebars.php:494
@@ -15047,12 +15047,12 @@ msgstr ""
 
 #: includes/plugins/multiple_sidebars.php:506
 msgid "WP Default Sidebar"
-msgstr ""
+msgstr "Бічна панель за замовчуванням WP"
 
 #: includes/plugins/multiple_sidebars.php:512
 #: includes/plugins/multiple_sidebars.php:518
 msgid "Default Sidebar"
-msgstr ""
+msgstr "Бічна панель за замовчуванням"
 
 # @ Avada
 #: includes/plugins/post-link-plus.php:377
@@ -15103,7 +15103,7 @@ msgstr ""
 
 #: includes/widget/class-fusion-widget-ad-125-125.php:221
 msgid "General Options"
-msgstr ""
+msgstr "Загальні Параметри"
 
 #: includes/widget/class-fusion-widget-ad-125-125.php:223
 #: includes/widget/class-fusion-widget-social-links.php:502
@@ -15120,7 +15120,7 @@ msgstr ""
 
 #: includes/widget/class-fusion-widget-author.php:125
 msgid "Posted by"
-msgstr ""
+msgstr "Опублікував"
 
 # @ Avada
 #: includes/widget/class-fusion-widget-author.php:144
@@ -15176,51 +15176,51 @@ msgstr ""
 
 #: includes/widget/class-fusion-widget-author.php:273
 msgid "Display Name:"
-msgstr ""
+msgstr "Відображувана назва:"
 
 #: includes/widget/class-fusion-widget-author.php:275
 msgid "Name with label"
-msgstr ""
+msgstr "Назва з етикеткою"
 
 #: includes/widget/class-fusion-widget-author.php:276
 msgid "Name only"
-msgstr ""
+msgstr "Тільки ім'я"
 
 #: includes/widget/class-fusion-widget-author.php:277
 msgid "Name as widget title"
-msgstr ""
+msgstr "Назва як назву віджету"
 
 #: includes/widget/class-fusion-widget-author.php:284
 msgid "Link to author page"
-msgstr ""
+msgstr "Посилання на сторінку автора"
 
 #: includes/widget/class-fusion-widget-author.php:289
 msgid "Display custom author message"
-msgstr ""
+msgstr "Відображення спеціального повідомлення автора"
 
 #: includes/widget/class-fusion-widget-author.php:294
 msgid "Display author biography"
-msgstr ""
+msgstr "Відобразити біографію автора"
 
 #: includes/widget/class-fusion-widget-author.php:299
 msgid "Display author social icons"
-msgstr ""
+msgstr "Показати соціальні піктограми автора"
 
 #: includes/widget/class-fusion-widget-author.php:304
 msgid "Display separator"
-msgstr ""
+msgstr "Розподіл екрану"
 
 #: includes/widget/class-fusion-widget-author.php:308
 msgid "Display Post Date:"
-msgstr ""
+msgstr "Показати дату публікації:"
 
 #: includes/widget/class-fusion-widget-author.php:310
 msgid "Date with label"
-msgstr ""
+msgstr "Дата з міткою"
 
 #: includes/widget/class-fusion-widget-author.php:311
 msgid "Date only"
-msgstr ""
+msgstr "Тільки дата"
 
 # @ Avada
 #: includes/widget/class-fusion-widget-contact-info.php:67
@@ -15262,23 +15262,23 @@ msgstr "Змінити адресу"
 
 #: includes/widget/class-fusion-widget-contact-info.php:176
 msgid "Email Link Text:"
-msgstr ""
+msgstr "Текст посилання на електронну адресу:"
 
 #: includes/widget/class-fusion-widget-contact-info.php:180
 msgid "Website URL (with HTTP):"
-msgstr ""
+msgstr "URL-адреса веб-сайту (з HTTP):"
 
 #: includes/widget/class-fusion-widget-contact-info.php:184
 msgid "Website URL Text:"
-msgstr ""
+msgstr "Текст URL-адреси веб-сайту:"
 
 #: includes/widget/class-fusion-widget-facebook-page.php:31
 msgid "Adds support for Facebook Page Plugin."
-msgstr ""
+msgstr "Додає підтримку для Плагіна Сторінки Facebook."
 
 #: includes/widget/class-fusion-widget-facebook-page.php:182
 msgid "Find us on Facebook"
-msgstr ""
+msgstr "Знайдіть нас на Facebook"
 
 #: includes/widget/class-fusion-widget-facebook-page.php:197
 msgid ""
@@ -15288,12 +15288,12 @@ msgstr ""
 
 #: includes/widget/class-fusion-widget-facebook-page.php:197
 msgid "See Instructions."
-msgstr ""
+msgstr "Див. Інструкцію."
 
 # @ Avada
 #: includes/widget/class-fusion-widget-facebook-page.php:205
 msgid "Facebook Page URL:"
-msgstr ""
+msgstr "URL сторінки в Facebook:"
 
 #: includes/widget/class-fusion-widget-facebook-page.php:210
 msgid "Facebook App ID:"
@@ -15301,37 +15301,37 @@ msgstr ""
 
 #: includes/widget/class-fusion-widget-facebook-page.php:215
 msgid "Width (has to be between 180 and 500):"
-msgstr ""
+msgstr "Ширина (повинна бути від 180 до 500):"
 
 # @ Avada
 #: includes/widget/class-fusion-widget-facebook-page.php:221
 msgid "Show Friends Faces"
-msgstr ""
+msgstr "Показати обличчя друзів"
 
 #: includes/widget/class-fusion-widget-facebook-page.php:226
 msgid "Show Timeline Tab"
-msgstr ""
+msgstr "Показати вкладку "Хронологія""
 
 #: includes/widget/class-fusion-widget-facebook-page.php:231
 msgid "Show Events Tab"
-msgstr ""
+msgstr "Показати вкладку "Події""
 
 #: includes/widget/class-fusion-widget-facebook-page.php:236
 msgid "Show Messages Tab"
-msgstr ""
+msgstr "Показати вкладки повідомлень"
 
 # @ Avada
 #: includes/widget/class-fusion-widget-facebook-page.php:241
 msgid "Show Cover Photo"
-msgstr ""
+msgstr "Показати фотографію обкладинки"
 
 #: includes/widget/class-fusion-widget-facebook-page.php:246
 msgid "Use Small Header"
-msgstr ""
+msgstr "Використовувати малий заголовок"
 
 #: includes/widget/class-fusion-widget-flickr.php:31
 msgid "The most recent photos from flickr."
-msgstr ""
+msgstr "Найновіші фотографії від flickr."
 
 #: includes/widget/class-fusion-widget-flickr.php:161
 msgid "Photos from Flickr"
@@ -15646,19 +15646,19 @@ msgstr "Тема"
 
 #: includes/widget/class-fusion-widget-tweets.php:337
 msgid "Show Footer"
-msgstr ""
+msgstr "Показати футер"
 
 # @ Avada
 #: includes/widget/class-fusion-widget-tweets.php:342
 #, fuzzy
 msgid "Show Borders"
-msgstr "Коментарів немає"
+msgstr "Показати кордони"
 
 # @ Avada
 #: includes/widget/class-fusion-widget-tweets.php:347
 #, fuzzy
 msgid "Transparent Background"
-msgstr "Фон"
+msgstr "Прозорий фон"
 
 #. translators: The twitter-ID.
 #: includes/widget/class-fusion-widget-tweets.php:368
@@ -15667,15 +15667,15 @@ msgstr ""
 
 #: includes/widget/class-fusion-widget-vertical-menu.php:287
 msgid "Menu Type:"
-msgstr ""
+msgstr "Тип меню:"
 
 #: includes/widget/class-fusion-widget-vertical-menu.php:289
 msgid "Custom Menu"
-msgstr ""
+msgstr "Спеціальне меню"
 
 #: includes/widget/class-fusion-widget-vertical-menu.php:290
 msgid "Vertical Menu"
-msgstr ""
+msgstr "Вертикальне меню"
 
 #: includes/widget/class-fusion-widget-vertical-menu.php:292
 msgid ""
@@ -15685,15 +15685,15 @@ msgstr ""
 
 #: includes/widget/class-fusion-widget-vertical-menu.php:308
 msgid "Parent Page:"
-msgstr ""
+msgstr "Батьківська сторінка:"
 
 #: includes/widget/class-fusion-widget-vertical-menu.php:321
 msgid "Behavior:"
-msgstr ""
+msgstr "Поведінка:"
 
 #: includes/widget/class-fusion-widget-vertical-menu.php:329
 msgid "Layout:"
-msgstr ""
+msgstr "Макет:"
 
 # @ Avada
 #: search.php:45
@@ -15770,41 +15770,41 @@ msgstr "Прочитайте більше"
 # @ Avada
 #: templates/blog-layout.php:345
 msgid "Protected"
-msgstr ""
+msgstr "Захищений"
 
 # @ Avada
 #: templates/blog-layout.php:403
 msgid "Load More Posts"
-msgstr ""
+msgstr "Завантажити більше постів"
 
 # @ Avada
 #: templates/elasticslider.php:32
 msgid "Loading..."
-msgstr ""
+msgstr "Завантаження ..."
 
 #: templates/header-v6.php:39 templates/menu-mobile-flyout.php:33
 msgid "Toggle Shopping Cart"
-msgstr ""
+msgstr "Переключити кошик"
 
 #: templates/header-v6.php:57 templates/menu-mobile-flyout.php:51
 msgid "Toggle Search"
-msgstr ""
+msgstr "Переключити пошук"
 
 #: templates/header-v6.php:61 templates/menu-mobile-flyout.php:57
 msgid "Toggle Menu"
-msgstr ""
+msgstr "Переключити меню"
 
 #: templates/menu-mobile-modern.php:23
 msgid "Toggle mobile menu"
-msgstr ""
+msgstr "Переключити мобільні меню"
 
 #: templates/menu-mobile-modern.php:27
 msgid "Toggle mobile search"
-msgstr ""
+msgstr "Переключити мобільний пошук"
 
 #: templates/menu-mobile-modern.php:36
 msgid "Toggle mobile cart"
-msgstr ""
+msgstr "Переключити мобільний кошик"
 
 #: templates/wc-after-single-product-summary.php:30
 msgid "Share On Facebook"
