@@ -27,7 +27,7 @@ msgstr "Ой, ця сторінка відсутня!"
 
 #: 404.php:30
 msgid "Helpful Links"
-msgstr ""
+msgstr "Корисні Посилання"
 
 # @ Avada
 #: 404.php:98
@@ -62,12 +62,12 @@ msgstr "- Відповідь"
 # @ bbpress
 #: bbpress/loop-search-topic.php:44
 msgid "Topic: "
-msgstr ""
+msgstr "Тема:"
 
 # @ bbpress
 #: bbpress/loop-search-topic.php:49
 msgid "in group forum "
-msgstr ""
+msgstr "в груповому форумі "
 
 # @ bbpress
 #: bbpress/loop-search-topic.php:53
@@ -146,7 +146,7 @@ msgstr ""
 
 #: comments.php:72
 msgid "Comment"
-msgstr ""
+msgstr "Коментар"
 
 # @ Avada
 #: comments.php:72
@@ -191,7 +191,7 @@ msgid ""
 "Please check if you've filled all the fields with valid information. Thank "
 "you."
 msgstr ""
-"Будь ласка, перевірте, чі заповнили ви всі поля дійсною інформацією. Дякую."
+"Будь ласка, перевірте, чи заповнили ви всі поля дійсною інформацією. Дякую."
 
 #: contact.php:44
 msgid ""
@@ -203,7 +203,7 @@ msgstr ""
 #: contact.php:58 contact.php:61
 msgid ""
 "Thank you %s for using our contact form! Your email was successfully sent!"
-msgstr ""
+msgstr "" "Спасибі, % за використання нашої контактної форми! Ваш електронний лист успішно відправлено"
 
 # @ Avada
 #: contact.php:70 contact.php:82 includes/class-avada-contact.php:182
@@ -226,7 +226,7 @@ msgstr "Відправити форму"
 #: includes/class-avada-admin.php:636
 #: includes/class-avada-megamenu-framework.php:184
 msgid "Theme Options"
-msgstr "Тема опцій"
+msgstr "Параметри теми"
 
 #. translators: Link to WordPress requirements page.
 #: functions.php:378
@@ -243,34 +243,37 @@ msgstr "Успішно імпортовано демонстраційні да�
 
 #: functions.php:578 functions.php:579
 msgid "Fusion Patcher"
-msgstr ""
+msgstr "Fusion Patcher"
 
 #: functions.php:595
 msgid ""
 "Our site is currently undergoing scheduled maintenance. Please try again in "
 "a moment."
-msgstr ""
-
+msgstr "" "Наш сайт в даний час проходить плановий ремонт. Будь ласка, повторіть спробу "
+"пізніше"
 #: functions.php:599
 msgid ""
 "Currently updating the Avada Theme. Your site will be accessible once the "
 "update finishes"
 msgstr ""
+"В даний час оновлюється Тема Avada. Ваш сайт буде доступний як тільки"
+"оновлення закінчиться"
 
 #. translators: The "follow this link" link.
 #: functions.php:611
 msgid ""
 "The Fusion-Core plugin needs to be updated before your site can exit "
 "maintenance mode. Please %s to update the plugin."
-msgstr ""
+msgstr "" "Плагін Fusion-Core потрібно оновити, перш ніж ваш сайт може вийти"
+"в режим технічного обслуговування. Будь ласка, % , оновіть плагін."
 
 #: functions.php:611
 msgid "follow this link"
-msgstr ""
+msgstr "перейдіть за цим посиланням"
 
 #: header.php:56
 msgid "Skip to content"
-msgstr ""
+msgstr "Перейти до вмісту"
 
 #. translators: %1$s: "System Status" link. %2$s: "View more info here" link.
 #: includes/admin-screens/demos.php:35
@@ -296,7 +299,7 @@ msgstr ""
 
 #: includes/admin-screens/demos.php:41
 msgid "IMPORTANT:"
-msgstr ""
+msgstr "ВАЖЛИВО:"
 
 # @ Avada
 #: includes/admin-screens/demos.php:42 includes/admin-screens/plugins.php:82
@@ -304,15 +307,15 @@ msgstr ""
 #: includes/class-avada-admin.php:742 includes/class-avada-admin.php:757
 #: includes/class-avada-admin.php:788
 msgid "System Status"
-msgstr ""
+msgstr "Статус системи"
 
 #: includes/admin-screens/demos.php:43
 msgid "View more info here"
-msgstr ""
+msgstr "Переглянути більше інформації тут"
 
 #: includes/admin-screens/demos.php:54
 msgid "All Demos"
-msgstr ""
+msgstr "Всі Демо"
 
 #: includes/admin-screens/demos.php:78
 msgid "Posts"
@@ -321,15 +324,15 @@ msgstr ""
 # @ Avada
 #: includes/admin-screens/demos.php:84 includes/options/sidebars.php:119
 msgid "Pages"
-msgstr ""
+msgstr "Сторінки"
 
 #: includes/admin-screens/demos.php:90
 msgid "Portfolios"
-msgstr ""
+msgstr "Портфоліо"
 
 #: includes/admin-screens/demos.php:96
 msgid "FAQs"
-msgstr ""
+msgstr "Часті питання"
 
 # @ Avada
 #: includes/admin-screens/demos.php:102
@@ -338,24 +341,24 @@ msgstr "Продукти"
 
 #: includes/admin-screens/demos.php:108
 msgid "Events"
-msgstr ""
+msgstr "Події"
 
 #: includes/admin-screens/demos.php:114
 msgid "Forum"
-msgstr ""
+msgstr "Форум"
 
 #: includes/admin-screens/demos.php:120
 msgid "Images"
-msgstr ""
+msgstr "Зображення"
 
 # @ Avada
 #: includes/admin-screens/demos.php:125 includes/metaboxes/metaboxes.php:277
 msgid "Sliders"
-msgstr ""
+msgstr "Слайдери"
 
 #: includes/admin-screens/demos.php:133
 msgid "Widgets"
-msgstr ""
+msgstr "Віджети"
 
 # @ Avada
 #: includes/admin-screens/demos.php:183
@@ -371,36 +374,36 @@ msgstr "Всі"
 #: includes/metaboxes/tabs/tab_avada_page_options.php:77
 #: includes/options/colors.php:155 includes/options/colors.php:204
 msgid "Import"
-msgstr ""
+msgstr "Імпорт"
 
 #: includes/admin-screens/demos.php:215 includes/class-avada-admin.php:1406
 msgid "Modify"
-msgstr ""
+msgstr "Змінити"
 
 #: includes/admin-screens/demos.php:218 includes/class-avada-admin.php:1407
 msgid "Full Import"
-msgstr ""
+msgstr "Повний імпорт"
 
 #: includes/admin-screens/demos.php:220 includes/class-avada-admin.php:1408
 msgid "Partial Import"
-msgstr ""
+msgstr "Частковий імпорт"
 
 # @ Avada
 #: includes/admin-screens/demos.php:238
 msgid "Preview"
-msgstr ""
+msgstr "Попередній перегляд"
 
 #: includes/admin-screens/demos.php:243
 msgid "New"
-msgstr ""
+msgstr "Новий"
 
 #: includes/admin-screens/demos.php:254
 msgid "Live Preview"
-msgstr ""
+msgstr "Попередній перегляд"
 
 #: includes/admin-screens/demos.php:262
 msgid "The Following Plugins Are Required To Import Content"
-msgstr ""
+msgstr "Для імпортування вмісту потрібні наступні плагіни"
 
 # @ Avada
 #: includes/admin-screens/demos.php:275 includes/class-avada-admin.php:1086
@@ -423,19 +426,19 @@ msgstr "Активувати"
 
 #: includes/admin-screens/demos.php:323
 msgid "Import Content"
-msgstr ""
+msgstr "Імпортувати вміст"
 
 #: includes/admin-screens/demos.php:323
 msgid "(menus only import with \"All\")"
-msgstr ""
+msgstr "(меню лише імпортуватиметься за допомогою \"All\")"
 
 #: includes/admin-screens/demos.php:330
 msgid "Remove Content"
-msgstr ""
+msgstr "Видалити вміст"
 
 #: includes/admin-screens/demos.php:334
 msgid "Uninstall"
-msgstr ""
+msgstr "Видалити"
 
 # @ Avada
 #: includes/admin-screens/demos.php:351
@@ -455,7 +458,7 @@ msgstr "Видалити"
 
 #: includes/admin-screens/demos.php:355
 msgid "Done"
-msgstr ""
+msgstr "Готово"
 
 # @ Avada
 #: includes/admin-screens/demos.php:370 includes/admin-screens/faq.php:162
@@ -467,16 +470,16 @@ msgstr ""
 msgid ""
 "Thank you for choosing Avada. We are honored and are fully dedicated to "
 "making your experience perfect."
-msgstr ""
+msgstr "Дякую за вибір Avada. Ми маємо честь і цілком прагнемо зробити Ваш досвід досконалим."
 
 #: includes/admin-screens/demos.php:375
 #: includes/metaboxes/tabs/tab_avada_page_options.php:120
 msgid "Warning "
-msgstr ""
+msgstr "УВАГА"
 
 #: includes/admin-screens/demos.php:385
 msgid "Avada Demos Can Only Be Imported With A Valid Token Registration"
-msgstr ""
+msgstr "Демо-версію Avada можна імпортувати лише за наявності дійсної реєстрації токенів"
 
 #. translators: "Product Registration" link.
 #: includes/admin-screens/demos.php:387
@@ -484,13 +487,15 @@ msgid ""
 "Please visit the %s page and enter a valid token to import the full Avada "
 "Demos and the single pages through Fusion Builder."
 msgstr ""
+"Будь ласка, відвідайте сторінку % та введіть дійсний токен, щоб імпортувати повну Avada"
+"Demos та окремі сторінки через Fusion Builder."
 
 # @ Avada
 #: includes/admin-screens/demos.php:387 includes/admin-screens/faq.php:35
 #: includes/admin-screens/plugins.php:70 includes/class-avada-admin.php:349
 #: includes/class-fusion-builder-filters.php:167
 msgid "Product Registration"
-msgstr ""
+msgstr "Реєстрація продукту"
 
 #. translators: "online support center" link.
 #: includes/admin-screens/faq.php:24
@@ -502,11 +507,11 @@ msgstr ""
 
 #: includes/admin-screens/faq.php:24
 msgid "online support center"
-msgstr ""
+msgstr "Онлайн-центр підтримки"
 
 #: includes/admin-screens/faq.php:30
 msgid "How Do I Register My Avada Purchase?"
-msgstr ""
+msgstr "Як зареєструвати мою покупку Avada?"
 
 #. translators: "Product Registration" link.
 #: includes/admin-screens/faq.php:35
@@ -16158,7 +16163,7 @@ msgstr ""
 #: woocommerce/checkout/thankyou.php:49
 #: woocommerce/compatibility/3.2/checkout/thankyou.php:49
 msgid "Order number:"
-msgstr ""
+msgstr "Номер замовлення:"
 
 # @ woocommerce
 #: woocommerce/checkout/thankyou.php:54
@@ -16171,29 +16176,29 @@ msgstr "Дата"
 #: woocommerce/checkout/thankyou.php:66
 #: woocommerce/compatibility/3.2/checkout/thankyou.php:66
 msgid "Total:"
-msgstr ""
+msgstr "Всього:"
 
 #: woocommerce/checkout/thankyou.php:72
 #: woocommerce/compatibility/3.2/checkout/thankyou.php:72
 msgid "Payment method:"
-msgstr ""
+msgstr "Спосіб оплати:"
 
 # @ woocommerce
 #: woocommerce/compatibility/3.2/single-product/add-to-cart/variable.php:36
 #: woocommerce/single-product/add-to-cart/variable.php:34
 msgid "This product is currently out of stock and unavailable."
-msgstr ""
+msgstr "Цього товару в даний час немає в наявності і він недоступний."
 
 # @ woocommerce
 #: woocommerce/compatibility/3.2/single-product/add-to-cart/variable.php:59
 #: woocommerce/single-product/add-to-cart/variable.php:61
 msgid "Clear selection"
-msgstr ""
+msgstr "Очистити вибір"
 
 #: woocommerce/compatibility/3.2/single-product/tabs/additional-information.php:25
 #: woocommerce/single-product/tabs/additional-information.php:25
 msgid "Additional information"
-msgstr ""
+msgstr "Додаткова інформація"
 
 #. Theme URI of the plugin/theme
 msgid "http://avada.theme-fusion.com/"
@@ -16204,11 +16209,13 @@ msgid ""
 "The #1 selling theme of all time that allows you to build virtually any "
 "design style."
 msgstr ""
+"Тема продажу №1 всіх часів, яка дозволяє створювати практично будь-який"
+"стиль дизайну."
 
 # @ Avada
 #. Author of the plugin/theme
 msgid "ThemeFusion"
-msgstr "Тема опцій"
+msgstr "ThemeFusion"
 
 #. Author URI of the plugin/theme
 msgid "http://themeforest.net/user/ThemeFusion"
@@ -16216,35 +16223,35 @@ msgstr ""
 
 #. Template Name of the plugin/theme
 msgid "100% Width"
-msgstr ""
+msgstr "Ширина 100%"
 
 #. Template Name of the plugin/theme
 msgid "Blank Page"
-msgstr ""
+msgstr "Порожня сторінка"
 
 # @ Avada
 #. Template Name of the plugin/theme
 msgid "Contact"
-msgstr ""
+msgstr "Зв'язатися"
 
 #. Template Name of the plugin/theme
 msgid "Side Navigation"
-msgstr ""
+msgstr "Бічна Навігація"
 
 #: includes/class-avada-page-options.php:71
 msgctxt "element type general name"
 msgid "Avada Page Options"
-msgstr ""
+msgstr "Параметри Сторінки Avada"
 
 #: includes/class-avada-page-options.php:72
 msgctxt "Item singular name"
 msgid "Item"
-msgstr ""
+msgstr "Елемент"
 
 #: includes/class-avada-page-options.php:73
 msgctxt "Item"
 msgid "Add Item"
-msgstr ""
+msgstr "Додати Елемент"
 
 # @ Avada
 #: includes/class-avada-tgm-plugin-activation.php:1245
@@ -16272,7 +16279,7 @@ msgstr[2] ""
 #: includes/class-avada-tgm-plugin-activation.php:2617
 msgctxt "as in: \"version nr unknown\""
 msgid "unknown"
-msgstr ""
+msgstr "невідомий"
 
 # @ Avada
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/welcome/views/status_report.php:553
@@ -16284,13 +16291,13 @@ msgstr "%s..."
 #: includes/wc-functions.php:74
 msgctxt "breadcrumb"
 msgid "Home"
-msgstr ""
+msgstr "Домівка"
 
 #. translators: time difference.
 #: includes/widget/class-fusion-widget-tweets.php:683
 msgctxt "%s = human-readable time difference"
 msgid "%s ago"
-msgstr ""
+msgstr "% тому назад"
 
 # @ Avada
 #~ msgid "You Have %d Items In Your Cart"
