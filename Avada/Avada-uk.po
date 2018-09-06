@@ -2657,7 +2657,7 @@ msgstr ""
 # @ Avada
 #: includes/class-avada-megamenu-framework.php:139
 msgid "Default Style"
-msgstr "Замовити за замовчуванням"
+msgstr "Стиль за замовчуванням"
 
 #: includes/class-avada-megamenu-framework.php:140
 msgid "Button Small"
@@ -15568,7 +15568,7 @@ msgstr ""
 #: includes/widget/class-fusion-widget-tweets.php:254
 #, fuzzy
 msgid "Widget Style:"
-msgstr "Замовити за замовчуванням"
+msgstr "Стиль віджетів:"
 
 #: includes/widget/class-fusion-widget-tweets.php:256
 msgid "Twitter Preconfigured Style (deprecated)"
@@ -15895,12 +15895,12 @@ msgstr ""
 
 #: templates/wc-cart-shipping-calc.php:92
 msgid "Update totals"
-msgstr ""
+msgstr "Оновити підсумки"
 
 # @ Avada
 #: templates/wc-catalog-ordering.php:44 templates/wc-catalog-ordering.php:83
 msgid "Default Order"
-msgstr "Замовити за замовчуванням"
+msgstr "За замовчуванням"
 
 # @ Avada
 #: templates/wc-catalog-ordering.php:48 templates/wc-catalog-ordering.php:96
@@ -15932,34 +15932,34 @@ msgstr "Рейтинг"
 #: templates/wc-catalog-ordering.php:96 templates/wc-catalog-ordering.php:100
 #: templates/wc-catalog-ordering.php:105
 msgid "Sort by %s"
-msgstr ""
+msgstr "Сортувати за"
 
 #: templates/wc-catalog-ordering.php:115
 msgid "Ascending order"
-msgstr ""
+msgstr "В порядку зростання"
 
 #: templates/wc-catalog-ordering.php:117
 msgid "Descending order"
-msgstr ""
+msgstr "У порядку зменшення"
 
 #. translators: Number.
 #: templates/wc-catalog-ordering.php:126 templates/wc-catalog-ordering.php:130
 #: templates/wc-catalog-ordering.php:134 templates/wc-catalog-ordering.php:138
 msgid "Show <strong>%s Products</strong>"
-msgstr ""
+msgstr "Показувати <strong> Продукти% s </ strong>"
 
 #: templates/wc-catalog-ordering.php:156
 msgid "View as grid"
-msgstr ""
+msgstr "Переглянути як сітку"
 
 #: templates/wc-catalog-ordering.php:159
 msgid "View as list"
-msgstr ""
+msgstr "Переглянути як список"
 
 #: templates/wc-proceed-to-checkout.php:15 woocommerce/cart/cart.php:146
 #: woocommerce/compatibility/3.2/cart/cart.php:146
 msgid "Update cart"
-msgstr ""
+msgstr "Оновити кошик"
 
 #: templates/wc-product-loop-outofstock-flash.php:19
 msgid "Out of stock"
